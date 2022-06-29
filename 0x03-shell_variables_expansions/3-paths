@@ -1,2 +1,2 @@
 #!/bin/bash
-find -typeÂPATH -type d
+find PATH -type d
