@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 #for ls
 
-ls > myFile.txt
 
-cat myFile.txt
+list=$(ls)
+for i in $list;
+do
+	echo $i
+done
