@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#for ls
+
+ls > myFile.txt
+
+cat myFile.txt
