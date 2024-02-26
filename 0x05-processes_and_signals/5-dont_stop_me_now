@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #5-dont_stop_me_now
 
-pkill bash
+kill 18180
