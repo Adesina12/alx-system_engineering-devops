@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 #5-dont_stop_me_now
 
-kill 18180
+pkill sleep
+pkill bash
